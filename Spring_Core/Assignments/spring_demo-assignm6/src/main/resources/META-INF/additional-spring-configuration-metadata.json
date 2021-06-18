@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "db.Drivername",
+    "type": "java.lang.String",
+    "description": "A description for 'db.Drivername'"
+  },
+  {
+    "name": "db.Url",
+    "type": "java.lang.String",
+    "description": "A description for 'db.Url'"
+  },
+  {
+    "name": "db.user",
+    "type": "java.lang.String",
+    "description": "A description for 'db.user'"
+  },
+  {
+    "name": "db.pass1",
+    "type": "java.lang.String",
+    "description": "A description for 'db.pass1'"
+  },
+  {
+    "name": "db.Url1",
+    "type": "java.lang.String",
+    "description": "A description for 'db.Url1'"
+  },
+  {
+    "name": "db.Url1",
+    "type": "java.lang.String",
+    "description": "A description for 'db.Url1'"
+  },
+  {
+    "name": "db.Url1",
+    "type": "java.lang.String",
+    "description": "A description for 'db.Url1'"
+  }
+]}
